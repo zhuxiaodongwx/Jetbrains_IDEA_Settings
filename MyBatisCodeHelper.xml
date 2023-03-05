@@ -1,7 +1,9 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile />
+      <Profile>
+        <option name="useFreeVersion" value="true" />
+      </Profile>
     </option>
   </component>
 </application>

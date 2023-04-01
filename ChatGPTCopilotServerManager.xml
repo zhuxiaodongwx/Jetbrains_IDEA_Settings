@@ -1,0 +1,7 @@
+<application>
+  <component name="ChatGPTCopilotServerManager">
+    <copilots>
+      <ChatGPTCopilotServer apiToken="dfd9dfc1df87dffadff9dfe3dfe7df93dff9dfc1dfd2dfdddff3dfdadfd9dfc8dfdedf9cdff3df9bdfdbdfe5dff3dffedf99dfe8dfc6dfc8dfc1dfecdfe0dfcfdfe7dfc6dfc4df9bdfdddf99dfe2dfc5dfe0dfc4dff0dfe7dfeddfcedff9dfe6dfc5df99dfd0" url="xiaodong" type="API_TOKEN" />
+    </copilots>
+  </component>
+</application>

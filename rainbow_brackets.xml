@@ -4,7 +4,8 @@
     <option name="enableRainbowVariables" value="true" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="rainbowifyTagNameInYAML" value="true" />
     <option name="suppressXMLCheck" value="true" />
-    <option name="version" value="2023.2.6" />
+    <option name="version" value="2023.2.11" />
   </component>
 </application>

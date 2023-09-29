@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.44.102" id="641dcf04-5f6e-4a00-ad1c-9772037d3450" port="22" customName="hadoop102" nameFormat="CUSTOM" username="atguigu" useOpenSSHConfig="true">
+        <option name="customName" value="hadoop102" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

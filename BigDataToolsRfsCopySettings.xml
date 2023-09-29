@@ -1,0 +1,9 @@
+<application>
+  <component name="BigDataToolsRfsCopySettings">
+    <option name="ignoreConfirmationCopyMove">
+      <list>
+        <option value="SFTP@SftpConnections@-7536138706555194919 upload" />
+      </list>
+    </option>
+  </component>
+</application>

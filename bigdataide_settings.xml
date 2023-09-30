@@ -27,6 +27,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="C_4K2Bapplication_properties.properties\application.properties" />
         <option value="__lPrG_f1_sh.sh\f1.sh" />
         <option value="4B____0XoprojectManage.\projectManage" />
         <option value="4B____0XoprojectManage.\projectManage." />
@@ -36,7 +37,6 @@
         <option value="_Iy_AMBserver_properties.properties\server.properties" />
         <option value="__y__logGenerator_sh.sh\logGenerator.sh" />
         <option value="_vyymh7application_yml.yml\application.yml" />
-        <option value="w__9_Ylogback_xml.xml\logback.xml" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

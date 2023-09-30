@@ -1,0 +1,9 @@
+<application>
+  <component name="BdtSearchSettings">
+    <option name="queryString">
+      <map>
+        <entry key="SFTP" value="opt/module/projectManage/f1.sh" />
+      </map>
+    </option>
+  </component>
+</application>

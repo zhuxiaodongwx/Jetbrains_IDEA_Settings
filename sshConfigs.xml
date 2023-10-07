@@ -4,6 +4,9 @@
       <sshConfig authType="PASSWORD" host="192.168.44.102" id="641dcf04-5f6e-4a00-ad1c-9772037d3450" port="22" customName="hadoop102" nameFormat="CUSTOM" username="atguigu" useOpenSSHConfig="true">
         <option name="customName" value="hadoop102" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.44.104" id="f4382aab-89e2-41b9-8ae6-1aa922423cdf" port="22" customName="hadoop104" nameFormat="CUSTOM" username="atguigu" useOpenSSHConfig="true">
+        <option name="customName" value="hadoop104" />
+      </sshConfig>
     </configs>
   </component>
 </application>

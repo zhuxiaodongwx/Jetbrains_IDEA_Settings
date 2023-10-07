@@ -21,22 +21,41 @@
           <option name="innerId" value="SFTP@SftpConnections@-7536138706555194919" />
           <option name="name" value="hadoop102@SFTP" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="customSftpCommand" value="rO0ABXQAAA==" />
+              <entry key="customSudoCommand" value="rO0ABXQABHN1ZG8=" />
+              <entry key="detectedSftpCommand" value="rO0ABXQAJzzov5DooYwgJ1Rlc3QgQ29ubmVjdGlvbicg6L+b6KGM5qOA5rWLPg==" />
+              <entry key="homePath" value="rO0ABXQAAS8=" />
+              <entry key="sshId" value="rO0ABXQAJGY0MzgyYWFiLTg5ZTItNDFiOS04YWU2LTFhYTkyMjQyM2NkZg==" />
+              <entry key="suggestSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="useCustomCommands" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="useSshPasswordForSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="useSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.sftp.settings.SftpConnectionData" />
+          <option name="groupId" value="SftpConnections" />
+          <option name="innerId" value="SFTP@SftpConnections@397180591839074560" />
+          <option name="name" value="hadoop104@SFTP" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="___Bz__config_properties.properties\config.properties" />
-        <option value="C_4K2Bapplication_properties.properties\application.properties" />
-        <option value="__lPrG_f1_sh.sh\f1.sh" />
-        <option value="4B____0XoprojectManage.\projectManage" />
-        <option value="4B____0XoprojectManage.\projectManage." />
-        <option value="y___Xdapp_2023_09_29_log.log\app_2023_09_29.log" />
-        <option value="__jlFrQflume_tailDir_kafka_conf.conf\flume_tailDir_kafka.conf" />
         <option value="_Hr_bS1Cserver_log.log\server.log" />
-        <option value="_Iy_AMBserver_properties.properties\server.properties" />
-        <option value="__y__logGenerator_sh.sh\logGenerator.sh" />
+        <option value="K_Mi__kafka_request_log.log\kafka_request.log" />
+        <option value="J_T___kafkaServer_out.out\kafkaServer.out" />
+        <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023-10-07-17" />
+        <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023_10_07_17" />
+        <option value="2A__1jserver_log_2023_10_07_17.2023-10-07-17\server_log.2023-10-07-17" />
+        <option value="2A__1jserver_log_2023_10_07_17.2023-10-07-17\server_log.2023_10_07_17" />
+        <option value="__9K_jcontroller_log_2023_10_07_17.2023-10-07-17\controller_log.2023-10-07-17" />
+        <option value="__9K_jcontroller_log_2023_10_07_17.2023-10-07-17\controller_log.2023_10_07_17" />
+        <option value="__jlFrQflume_tailDir_kafka_conf.conf\flume_tailDir_kafka.conf" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

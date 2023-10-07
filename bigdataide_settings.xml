@@ -46,6 +46,8 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="_FchFj_Gclog_6.\log_6." />
+        <option value="_Z__bflume_log.log\flume.log" />
         <option value="_Hr_bS1Cserver_log.log\server.log" />
         <option value="K_Mi__kafka_request_log.log\kafka_request.log" />
         <option value="J_T___kafkaServer_out.out\kafkaServer.out" />
@@ -54,8 +56,6 @@
         <option value="2A__1jserver_log_2023_10_07_17.2023-10-07-17\server_log.2023-10-07-17" />
         <option value="2A__1jserver_log_2023_10_07_17.2023-10-07-17\server_log.2023_10_07_17" />
         <option value="__9K_jcontroller_log_2023_10_07_17.2023-10-07-17\controller_log.2023-10-07-17" />
-        <option value="__9K_jcontroller_log_2023_10_07_17.2023-10-07-17\controller_log.2023_10_07_17" />
-        <option value="__jlFrQflume_tailDir_kafka_conf.conf\flume_tailDir_kafka.conf" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

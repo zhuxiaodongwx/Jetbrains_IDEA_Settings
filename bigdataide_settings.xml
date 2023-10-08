@@ -40,16 +40,35 @@
           <option name="innerId" value="SFTP@SftpConnections@397180591839074560" />
           <option name="name" value="hadoop104@SFTP" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="customSftpCommand" value="rO0ABXQAAA==" />
+              <entry key="customSudoCommand" value="rO0ABXQABHN1ZG8=" />
+              <entry key="detectedSftpCommand" value="rO0ABXQAJzzov5DooYwgJ1Rlc3QgQ29ubmVjdGlvbicg6L+b6KGM5qOA5rWLPg==" />
+              <entry key="homePath" value="rO0ABXQAAS8=" />
+              <entry key="sshId" value="rO0ABXQAJDhlMzY2OTVhLWY3ZWYtNGVkYS04MmMzLTlhZWM2NzkyYjQ2Zg==" />
+              <entry key="suggestSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="useCustomCommands" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="useSshPasswordForSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="useSudo" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.sftp.settings.SftpConnectionData" />
+          <option name="groupId" value="SftpConnections" />
+          <option name="innerId" value="SFTP@SftpConnections@-4115728427412532085" />
+          <option name="name" value="hadoop103@SFTP" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="_Z__bflume_log.log\flume.log" />
         <option value="__jlFrQflume_tailDir_kafka_conf.conf\flume_tailDir_kafka.conf" />
         <option value="k__7___flume_kafka_hdfs_conf.conf\flume_kafka_hdfs.conf" />
         <option value="_FchFj_Gclog_6.\log_6." />
-        <option value="_Z__bflume_log.log\flume.log" />
         <option value="_Hr_bS1Cserver_log.log\server.log" />
         <option value="K_Mi__kafka_request_log.log\kafka_request.log" />
         <option value="J_T___kafkaServer_out.out\kafkaServer.out" />

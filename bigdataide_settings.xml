@@ -65,6 +65,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="___Bz__config_properties.properties\config.properties" />
         <option value="_a_JkT_ogen_import_config_sh.sh\gen_import_config.sh" />
         <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/7____lbase_province_tableMode_json.json/base_province_tableMode.json" />
         <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023_10_07_17" />
@@ -74,7 +75,6 @@
         <option value="_Hr_bS1Cserver_log.log\server.log" />
         <option value="_FchFj_Gclog_6.\log_6." />
         <option value="k__7___flume_kafka_hdfs_conf.conf\flume_kafka_hdfs.conf" />
-        <option value="__jlFrQflume_tailDir_kafka_conf.conf\flume_tailDir_kafka.conf" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

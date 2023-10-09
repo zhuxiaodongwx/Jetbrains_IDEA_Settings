@@ -2,8 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>

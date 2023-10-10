@@ -65,16 +65,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
+        <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
+        <option value="___xqa_R_Jspark_env_sh.sh\spark_env.sh" />
+        <option value="___pKT_0spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102_out.out\spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102.out" />
         <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
         <option value="__N__a5_GC_workers.\workers." />
         <option value="__N__a5_GC_workers.\workers" />
         <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/___Bz__config_properties.properties/config.properties" />
         <option value="___Bz__config_properties.properties\config.properties" />
         <option value="_a_JkT_ogen_import_config_sh.sh\gen_import_config.sh" />
-        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/7____lbase_province_tableMode_json.json/base_province_tableMode.json" />
-        <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023_10_07_17" />
-        <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023-10-07-17" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

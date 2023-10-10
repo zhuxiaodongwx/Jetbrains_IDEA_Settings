@@ -65,6 +65,9 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="__N__a5_GC_workers.\workers." />
+        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="__N__a5_GC_workers.\workers" />
         <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/___Bz__config_properties.properties/config.properties" />
         <option value="___Bz__config_properties.properties\config.properties" />
         <option value="_a_JkT_ogen_import_config_sh.sh\gen_import_config.sh" />
@@ -72,9 +75,6 @@
         <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023_10_07_17" />
         <option value="_H_OuMiastate_change_log_2023_10_07_17.2023-10-07-17\state_change_log.2023-10-07-17" />
         <option value="J_T___kafkaServer_out.out\kafkaServer.out" />
-        <option value="K_Mi__kafka_request_log.log\kafka_request.log" />
-        <option value="_Hr_bS1Cserver_log.log\server.log" />
-        <option value="_FchFj_Gclog_6.\log_6." />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

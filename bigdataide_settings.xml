@@ -65,12 +65,12 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
         <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
         <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
         <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
         <option value="___xqa_R_Jspark_env_sh.sh\spark_env.sh" />
         <option value="___pKT_0spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102_out.out\spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102.out" />
-        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
         <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
         <option value="__N__a5_GC_workers.\workers." />
         <option value="__N__a5_GC_workers.\workers" />

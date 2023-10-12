@@ -47,6 +47,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-32712" />
                               <option name="colorKey" value="GrepConsole.fatal.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -67,6 +68,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-32199" />
                               <option name="colorKey" value="GrepConsole.error.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -87,6 +89,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-2406" />
                               <option name="colorKey" value="GrepConsole.warn.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>

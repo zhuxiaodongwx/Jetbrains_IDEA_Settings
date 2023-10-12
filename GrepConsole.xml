@@ -42,6 +42,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -50,7 +51,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.fatal.foreground" />
@@ -62,6 +62,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -81,6 +82,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -187,6 +189,7 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
         </Profile>
       </list>
     </option>

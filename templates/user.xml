@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="sc" value="        // 1.创建配置对象&#10;        SparkConf conf = new SparkConf()&#10;                .setMaster(&quot;local[*]&quot;)&#10;                .setAppName(&quot;$className$&quot;);&#10;&#10;        // 2. 创建sparkContext&#10;        JavaSparkContext sc = new JavaSparkContext(conf);&#10;&#10;        // 3. 编写代码&#10;        &#10;&#10;        // 4. 关闭sc&#10;        sc.stop();" description="Saprk RDD模板" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="Test" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

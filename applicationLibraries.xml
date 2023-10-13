@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.10 (E-commerceDataWarehouse) interpreter library">
+    <library name="Python 3.10 interpreter library">
       <CLASSES>
         <root url="file://C:/Develop/SDK/python310/DLLs" />
         <root url="file://C:/Develop/SDK/python310/Lib" />

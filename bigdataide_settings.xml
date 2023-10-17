@@ -59,22 +59,58 @@
           <option name="innerId" value="SFTP@SftpConnections@-4115728427412532085" />
           <option name="name" value="hadoop103@SFTP" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="enableBasicAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="enableProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyEnableType" value="rO0ABX5yADxjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi5Qcm94eUVuYWJsZVR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhESVNBQkxFRA==" />
+              <entry key="proxyHost" value="rO0ABXQAAA==" />
+              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
+              <entry key="proxyType" value="rO0ABX5yADZjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi5Qcm94eVR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AARIVFRQ" />
+              <entry key="sparkMonitoringDriverId" value="rO0ABXQAAA==" />
+              <entry key="tunnel" value="rO0ABXNyAFdjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi50dW5uZWwubW9kZWwuQ29ubmVjdGlvblNzaFR1bm5lbERhdGFMZWdhY3mINKLe8MxKawIABFoACWlzRW5hYmxlZEkACnJlbW90ZVBvcnRMAAhjb25maWdJZHQAEkxqYXZhL2xhbmcvU3RyaW5nO0wACnJlbW90ZUhvc3RxAH4AAXhwAP////90AABxAH4AAw==" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.hadoop.monitoring.settings.HadoopConnectionData" />
+          <option name="groupId" value="HadoopMonitoringConnections" />
+          <option name="innerId" value="Hadoop YARN@HadoopMonitoringConnections@6047670556460170037" />
+          <option name="name" value="Hadoop YARN" />
+          <option name="uri" value="http://hadoop103:8088" />
+        </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="address" value="rO0ABXQAFWhkZnM6Ly9oYWRvb3AxMDQ6ODAyMA==" />
+              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
+              <entry key="properties" value="rO0ABXQAAQo=" />
+              <entry key="rootPath" value="rO0ABXQAAS8=" />
+              <entry key="tunnel" value="rO0ABXNyAFdjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi50dW5uZWwubW9kZWwuQ29ubmVjdGlvblNzaFR1bm5lbERhdGFMZWdhY3mINKLe8MxKawIABFoACWlzRW5hYmxlZEkACnJlbW90ZVBvcnRMAAhjb25maWdJZHQAEkxqYXZhL2xhbmcvU3RyaW5nO0wACnJlbW90ZUhvc3RxAH4AAXhwAP////90AABxAH4AAw==" />
+              <entry key="useKerberosTicketCache" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
+          <option name="groupId" value="HdfsJavaConnectionGroup" />
+          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-6536464131876023806" />
+          <option name="name" value="HDFS" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="M_eyMcore_site_xml.xml\core_site.xml" />
-        <option value="___pKT_0spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102_out.out\spark_atguigu_org_apache_spark_deploy_history_HistoryServer_1_hadoop102.out" />
-        <option value="___xqa_R_Jspark_env_sh.sh\spark_env.sh" />
-        <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
-        <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
-        <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
-        <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
-        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
-        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/p_tt__Xa_spark_env_sh.sh/spark_env.sh" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/E_M__to_xyarn_site_xml.xml/yarn_site.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/__5_P___T__spark_env_sh.sh/spark_env.sh" />
         <option value="p_tt__Xa_spark_env_sh.sh\spark_env.sh" />
+        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
+        <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
+        <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
+        <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
+        <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

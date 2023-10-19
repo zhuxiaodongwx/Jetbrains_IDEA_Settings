@@ -8,6 +8,16 @@
     <option name="newTranslationDialogX" value="1102" />
     <option name="newTranslationDialogY" value="608" />
     <histories>
+      <item value="点击数 &#10;下单数  &#10;支付数  &#10;权重数" />
+      <item value="点击数 &#10;下单数  支付数  &#10;权重数" />
+      <item value="点击数 下单数  支付数  &#10;权重数" />
+      <item value="点击数 下单数  支付数  &#10;权重shu" />
+      <item value="点击数 下单数  支付数  &#10;权重" />
+      <item value="点击数 下单数  支付数  权重" />
+      <item value="点击数 下单数  支付数 权重" />
+      <item value="点击数 下单数  支付数 quan" />
+      <item value="点击数 下单数  支付数 " />
+      <item value="点击数 下单数  支付数" />
       <item value="实战案例" />
       <item value="shixia" />
       <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. See accompanying LICENSE file." />

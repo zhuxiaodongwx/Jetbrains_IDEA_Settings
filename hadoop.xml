@@ -1,5 +1,25 @@
 <application>
   <component name="HadoopSettings">
-    <option name="selectedConnectionId" value="Hadoop YARN@HadoopMonitoringConnections@438301405250268119" />
+    <option name="configs">
+      <map>
+        <entry key="Hadoop YARN@HadoopMonitoringConnections@438301405250268119">
+          <value>
+            <HadoopConfig>
+              <option name="selectedPage" value="工具" />
+            </HadoopConfig>
+          </value>
+        </entry>
+        <entry key="Hadoop YARN@HadoopMonitoringConnections@6047670556460170037">
+          <value>
+            <HadoopConfig>
+              <option name="applicationDetailsProportion" value="0.43809903" />
+              <option name="selectedPage" value="应用程序" />
+            </HadoopConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dataUpdateIntervalMillis" value="5000" />
+    <option name="selectedConnectionId" value="Hadoop YARN@HadoopMonitoringConnections@6047670556460170037" />
   </component>
 </application>

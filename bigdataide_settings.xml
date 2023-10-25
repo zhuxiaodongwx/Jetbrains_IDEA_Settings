@@ -121,16 +121,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/p_tt__Xa_spark_env_sh.sh/spark_env.sh" />
-        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/E_M__to_xyarn_site_xml.xml/yarn_site.xml" />
-        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/__5_P___T__spark_env_sh.sh/spark_env.sh" />
-        <option value="p_tt__Xa_spark_env_sh.sh\spark_env.sh" />
-        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
-        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
-        <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
-        <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
         <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
+        <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
         <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
+        <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
+        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
+        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="p_tt__Xa_spark_env_sh.sh\spark_env.sh" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/__5_P___T__spark_env_sh.sh/spark_env.sh" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/E_M__to_xyarn_site_xml.xml/yarn_site.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/p_tt__Xa_spark_env_sh.sh/spark_env.sh" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

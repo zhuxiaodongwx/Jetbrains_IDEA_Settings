@@ -5,7 +5,13 @@
         <entry key="Hadoop YARN@HadoopMonitoringConnections@438301405250268119">
           <value>
             <HadoopConfig>
-              <option name="selectedPage" value="工具" />
+              <option name="expandedTools">
+                <set>
+                  <option value="Configuration" />
+                  <option value="LocalLogs" />
+                </set>
+              </option>
+              <option name="selectedPage" value="节点" />
             </HadoopConfig>
           </value>
         </entry>

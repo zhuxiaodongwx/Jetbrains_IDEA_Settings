@@ -1,3 +1,9 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="com.dbschema.ZeppelinSparkJdbcDriver" name="BDT Hive Metastore Connection" driver-class="com.dbschema.ZeppelinSparkJdbcDriver" icon="icons/apache_hive.svg">
+      <library>
+        <url>file://C:\Users\XiaoDong\AppData\Roaming\JetBrains\IntelliJIdea2023.2\jdbc-drivers\Zeppelin\zeppelin-jdbc-2.jar</url>
+      </library>
+    </driver>
+  </component>
 </application>

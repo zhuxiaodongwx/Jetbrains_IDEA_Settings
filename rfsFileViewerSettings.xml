@@ -1,0 +1,11 @@
+<application>
+  <component name="RfsFileViewerSettings">
+    <option name="tabsInfo">
+      <list>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="Hive Metastore@HiveMetastoreConnections@-8739420525756573943" />
+        </RfsFileViewerInfo>
+      </list>
+    </option>
+  </component>
+</application>

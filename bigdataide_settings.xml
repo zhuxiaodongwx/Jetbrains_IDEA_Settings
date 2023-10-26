@@ -115,15 +115,32 @@
           <option name="name" value="Hadoop YARN hadoop104" />
           <option name="uri" value="http://hadoop104:8088" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="databasePattern" value="rO0ABXQAASo=" />
+              <entry key="properties" value="rO0ABXQAAQo=" />
+              <entry key="propertySource" value="rO0ABX5yAE1jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5oaXZlbWV0YXN0b3JlLnNldHRpbmdzLkhpdmVNZXRhc3RvcmVQcm9wZXJ0eVNvdXJjZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkRJUkVDVA==" />
+              <entry key="tablePattern" value="rO0ABXQAASo=" />
+              <entry key="tunnel" value="rO0ABXNyAFdjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi50dW5uZWwubW9kZWwuQ29ubmVjdGlvblNzaFR1bm5lbERhdGFMZWdhY3mINKLe8MxKawIABFoACWlzRW5hYmxlZEkACnJlbW90ZVBvcnRMAAhjb25maWdJZHQAEkxqYXZhL2xhbmcvU3RyaW5nO0wACnJlbW90ZUhvc3RxAH4AAXhwAP////90AABxAH4AAw==" />
+              <entry key="useKerberosTicketCache" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.hivemetastore.settings.HiveMetastoreConnectionData" />
+          <option name="groupId" value="HiveMetastoreConnections" />
+          <option name="innerId" value="Hive Metastore@HiveMetastoreConnections@-8739420525756573943" />
+          <option name="name" value="Hive Metastore" />
+          <option name="uri" value="thrift://hadoop102:9083" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="_emd1E54hive_site_xml.xml\hive_site.xml" />
         <option value="C_v_P6_chive_env_sh.sh\hive_env.sh" />
         <option value="8qÝe5_hive_log4j2_properties.properties\hive_log4j2.properties" />
-        <option value="_emd1E54hive_site_xml.xml\hive_site.xml" />
         <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
         <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
         <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />

@@ -138,6 +138,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="s___B__L___Jmapred_site_xml.xml\mapred_site.xml" />
         <option value="_emd1E54hive_site_xml.xml\hive_site.xml" />
         <option value="C_v_P6_chive_env_sh.sh\hive_env.sh" />
         <option value="8qÝe5_hive_log4j2_properties.properties\hive_log4j2.properties" />
@@ -147,7 +148,6 @@
         <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
         <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
         <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
-        <option value="p_tt__Xa_spark_env_sh.sh\spark_env.sh" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

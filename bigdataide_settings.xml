@@ -138,16 +138,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="_emd1E54hive_site_xml.xml\hive_site.xml" />
-        <option value="s___B__L___Jmapred_site_xml.xml\mapred_site.xml" />
-        <option value="C_v_P6_chive_env_sh.sh\hive_env.sh" />
-        <option value="8qÝe5_hive_log4j2_properties.properties\hive_log4j2.properties" />
-        <option value="7Fh_K__J_0cstopHadoopHA_sh.sh\stopHadoopHA.sh" />
-        <option value="f__Xc53startHadoopHA_sh.sh\startHadoopHA.sh" />
-        <option value="Z6_E__spark_defaults_conf.conf\spark_defaults.conf" />
-        <option value="E_M__to_xyarn_site_xml.xml\yarn_site.xml" />
-        <option value="M4_pV___spark_defaults_conf.conf\spark_defaults.conf" />
-        <option value="__5_P___T__spark_env_sh.sh\spark_env.sh" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00196-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00148-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00131-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00118-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00028-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00025-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00014-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00000-b40f1c99-04ee-4aae-8f14-c04755f526e2-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00196-d76ef336-e02f-40ce-b9b0-c36eddd12f12-c000.csv" />
+        <option value="D:/LearningBigData/05_ComputingComponents/Spark/sparkCore/output/top3/part-00148-d76ef336-e02f-40ce-b9b0-c36eddd12f12-c000.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\XiaoDong\AppData\Local\Temp\HDFS-downloaded" />

@@ -4,6 +4,7 @@
       <mapping pattern="part-00001" type="AUTO_DETECTED" />
       <mapping pattern="part-00000" type="AUTO_DETECTED" />
       <mapping pattern=".part-00001.crc" type="PLAIN_TEXT" />
+      <mapping ext="ymal" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
